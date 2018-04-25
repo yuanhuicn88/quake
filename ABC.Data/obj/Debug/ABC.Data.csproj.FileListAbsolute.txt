@@ -1,0 +1,4 @@
+D:\Code2018\WebDeveloper\ABC\ABC.Data\bin\Debug\ABC.Data.dll
+D:\Code2018\WebDeveloper\ABC\ABC.Data\bin\Debug\ABC.Data.pdb
+D:\Code2018\WebDeveloper\ABC\ABC.Data\obj\Debug\ABC.Data.dll
+D:\Code2018\WebDeveloper\ABC\ABC.Data\obj\Debug\ABC.Data.pdb

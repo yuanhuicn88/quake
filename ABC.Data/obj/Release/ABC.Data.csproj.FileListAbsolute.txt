@@ -1,0 +1,5 @@
+D:\Code2018\WebDeveloper\ABC\ABC.Data\bin\Release\ABC.Data.dll
+D:\Code2018\WebDeveloper\ABC\ABC.Data\bin\Release\ABC.Data.pdb
+D:\Code2018\WebDeveloper\ABC\ABC.Data\obj\Release\ABC.Data.csprojResolveAssemblyReference.cache
+D:\Code2018\WebDeveloper\ABC\ABC.Data\obj\Release\ABC.Data.dll
+D:\Code2018\WebDeveloper\ABC\ABC.Data\obj\Release\ABC.Data.pdb
