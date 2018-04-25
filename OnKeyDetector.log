@@ -1,0 +1,1434 @@
+[2018/04/24,19:21:50.393] CCCBDetectorApp::InitInstance : (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:21:50.444] OnInitDialog: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:21:50.591] OnInitDialog: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.806] DocumentCompleteExplorerBrowser: (Process is 14476, thread is 2016)
+	[begin:pos:20]
+[2018/04/24,19:21:50.806] DocumentCompleteExplorerBrowser: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.807] DocumentCompleteExplorerBrowser: (Process is 14476, thread is 2016)
+	[begin:pos:30]
+[2018/04/24,19:21:50.808] DocumentCompleteExplorerBrowser: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.810] DocumentCompleteExplorerBrowser: (Process is 14476, thread is 2016)
+	[begin:pos:40]
+[2018/04/24,19:21:50.810] DocumentCompleteExplorerBrowser: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.811] CCB_GetProxySettings: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:21:50.811] CCB_GetProxySettings: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.821] DocumentCompleteExplorerBrowser: (Process is 14476, thread is 2016)
+	[begin:pos:50]
+[2018/04/24,19:21:50.822] DocumentCompleteExplorerBrowser: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.833] DocumentCompleteExplorerBrowser: (Process is 14476, thread is 2016)
+	[begin:pos:60]
+[2018/04/24,19:21:50.833] DocumentCompleteExplorerBrowser: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.835] DocumentCompleteExplorerBrowser: (Process is 14476, thread is 2016)
+	[begin:pos:70]
+[2018/04/24,19:21:50.835] DocumentCompleteExplorerBrowser: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.837] DocumentCompleteExplorerBrowser: (Process is 14476, thread is 2016)
+	[begin:pos:80]
+[2018/04/24,19:21:50.837] DocumentCompleteExplorerBrowser: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.838] DocumentCompleteExplorerBrowser: (Process is 14476, thread is 2016)
+	[begin:pos:90]
+[2018/04/24,19:21:50.838] DocumentCompleteExplorerBrowser: (Process is 14476, thread is 2016)
+	[Program Startup m_bInit-enum exist key]
+[2018/04/24,19:21:50.838] RegistDeviceChangeEvent: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:21:50.839] RegistDeviceChangeEvent: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.839] EnumExistUKey: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:21:50.840] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\scsi#disk&ven_nvme&prod_samsung_mzvlw256#5&1042fa54&0&000000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}]
+[2018/04/24,19:21:50.841] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col0e#5&1833cf36&0&000d#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.841] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col0f#5&1833cf36&0&000e#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.841] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col01#5&1833cf36&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.842] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col02#5&1833cf36&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.842] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col03#5&1833cf36&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.842] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col04#5&1833cf36&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.842] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col05#5&1833cf36&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.843] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col06#5&1833cf36&0&0005#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.843] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col0a#5&1833cf36&0&0009#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.843] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col07#5&1833cf36&0&0006#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.844] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col08#5&1833cf36&0&0007#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.844] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col09#5&1833cf36&0&0008#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.844] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#converteddevice&col01#7&f202e01&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.844] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#etd2303&col01#5&1e6314e1&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.845] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#etd2303&col02#5&1e6314e1&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.845] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#converteddevice&col02#7&f202e01&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.845] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#etd2303&col03#5&1e6314e1&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.845] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col11#5&1833cf36&0&0010#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.846] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#etd2303&col04#5&1e6314e1&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.846] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col10#5&1833cf36&0&000f#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.846] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col12#5&1833cf36&0&0011#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.846] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col0b#5&1833cf36&0&000a#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.847] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#converteddevice&col03#7&f202e01&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.847] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col0c#5&1833cf36&0&000b#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.847] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col0d#5&1833cf36&0&000c#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.847] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#vid_046d&pid_c077#6&29f5c28b&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.848] EnumExistUKey: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.852] SortControl: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:21:50.856] SortControl: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.860] CCB_DetectAll: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:21:50.861] CCB_DetectAll: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.861] RepairThread: (Process is 14476, thread is 7372)
+	[begin]
+[2018/04/24,19:21:50.861] AddResult: (Process is 14476, thread is 7372)
+	[begin]
+[2018/04/24,19:21:50.873] DocumentCompleteExplorerBrowser: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.883] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:21:50.883] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.883] AddResult: (Process is 14476, thread is 7372)
+	[end]
+[2018/04/24,19:21:50.884] AddResult: (Process is 14476, thread is 7372)
+	[begin]
+[2018/04/24,19:21:50.898] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:21:50.899] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.900] AddResult: (Process is 14476, thread is 7372)
+	[end]
+[2018/04/24,19:21:50.901] AddResult: (Process is 14476, thread is 7372)
+	[begin]
+[2018/04/24,19:21:50.907] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:21:50.908] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.909] AddResult: (Process is 14476, thread is 7372)
+	[end]
+[2018/04/24,19:21:50.909] AddResult: (Process is 14476, thread is 7372)
+	[begin]
+[2018/04/24,19:21:50.911] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:21:50.911] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.911] AddResult: (Process is 14476, thread is 7372)
+	[end]
+[2018/04/24,19:21:50.914] AddResult: (Process is 14476, thread is 7372)
+	[begin]
+[2018/04/24,19:21:50.918] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:21:50.920] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.920] AddResult: (Process is 14476, thread is 7372)
+	[end]
+[2018/04/24,19:21:50.920] AddResult: (Process is 14476, thread is 7372)
+	[begin]
+[2018/04/24,19:21:50.922] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:21:50.924] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.925] AddResult: (Process is 14476, thread is 7372)
+	[end]
+[2018/04/24,19:21:50.926] AddResult: (Process is 14476, thread is 7372)
+	[begin]
+[2018/04/24,19:21:50.927] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:21:50.928] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.929] AddResult: (Process is 14476, thread is 7372)
+	[end]
+[2018/04/24,19:21:50.929] CCB_IsTLS12OrLaterChecked: (Process is 14476, thread is 7372)
+	[begin]
+[2018/04/24,19:21:50.929] Read: (Process is 14476, thread is 7372)
+	[begin]
+[2018/04/24,19:21:50.929] Close: (Process is 14476, thread is 7372)
+	[begin]
+[2018/04/24,19:21:50.930] Close: (Process is 14476, thread is 7372)
+	[end]
+[2018/04/24,19:21:50.930] CCB_IsTLS12OrLaterChecked: (Process is 14476, thread is 7372)
+	[end]
+[2018/04/24,19:21:50.930] AddResult: (Process is 14476, thread is 7372)
+	[begin]
+[2018/04/24,19:21:50.931] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:21:50.932] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.932] AddResult: (Process is 14476, thread is 7372)
+	[end]
+[2018/04/24,19:21:50.933] AddResult: (Process is 14476, thread is 7372)
+	[begin]
+[2018/04/24,19:21:50.934] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:21:50.935] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.935] AddResult: (Process is 14476, thread is 7372)
+	[end]
+[2018/04/24,19:21:50.936] AddResult: (Process is 14476, thread is 7372)
+	[begin]
+[2018/04/24,19:21:50.938] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:21:50.940] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.940] AddResult: (Process is 14476, thread is 7372)
+	[end]
+[2018/04/24,19:21:50.941] AddResult: (Process is 14476, thread is 7372)
+	[begin]
+[2018/04/24,19:21:50.942] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:21:50.943] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.944] AddResult: (Process is 14476, thread is 7372)
+	[end]
+[2018/04/24,19:21:50.944] RepairThread: (Process is 14476, thread is 7372)
+	[end]
+[2018/04/24,19:21:50.948] DocumentCompleteExplorerBrowser: (Process is 14476, thread is 2016)
+	[begin:pos:100]
+[2018/04/24,19:21:50.948] DocumentCompleteExplorerBrowser: (Process is 14476, thread is 2016)
+	[Program Startup m_bInit-enum exist key]
+[2018/04/24,19:21:50.948] RegistDeviceChangeEvent: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:21:50.949] RegistDeviceChangeEvent: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.949] EnumExistUKey: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:21:50.949] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\scsi#disk&ven_nvme&prod_samsung_mzvlw256#5&1042fa54&0&000000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}]
+[2018/04/24,19:21:50.950] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col0e#5&1833cf36&0&000d#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.950] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col0f#5&1833cf36&0&000e#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.950] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col01#5&1833cf36&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.951] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col02#5&1833cf36&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.951] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col03#5&1833cf36&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.951] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col04#5&1833cf36&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.951] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col05#5&1833cf36&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.952] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col06#5&1833cf36&0&0005#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.952] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col0a#5&1833cf36&0&0009#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.952] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col07#5&1833cf36&0&0006#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.952] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col08#5&1833cf36&0&0007#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.953] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col09#5&1833cf36&0&0008#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.953] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#converteddevice&col01#7&f202e01&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.953] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#etd2303&col01#5&1e6314e1&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.953] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#etd2303&col02#5&1e6314e1&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.954] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#converteddevice&col02#7&f202e01&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.954] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#etd2303&col03#5&1e6314e1&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.954] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col11#5&1833cf36&0&0010#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.954] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#etd2303&col04#5&1e6314e1&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.955] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col10#5&1833cf36&0&000f#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.955] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col12#5&1833cf36&0&0011#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.955] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col0b#5&1833cf36&0&000a#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.955] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#converteddevice&col03#7&f202e01&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.956] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col0c#5&1833cf36&0&000b#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.956] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col0d#5&1833cf36&0&000c#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.956] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#vid_046d&pid_c077#6&29f5c28b&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.957] EnumExistUKey: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.958] SortControl: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:21:50.959] SortControl: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.963] DocumentCompleteExplorerBrowser: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.966] DocumentCompleteExplorerBrowser: (Process is 14476, thread is 2016)
+	[begin:pos:110]
+[2018/04/24,19:21:50.967] DocumentCompleteExplorerBrowser: (Process is 14476, thread is 2016)
+	[Program Startup m_bInit-enum exist key]
+[2018/04/24,19:21:50.967] RegistDeviceChangeEvent: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:21:50.967] RegistDeviceChangeEvent: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.968] EnumExistUKey: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:21:50.968] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\scsi#disk&ven_nvme&prod_samsung_mzvlw256#5&1042fa54&0&000000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}]
+[2018/04/24,19:21:50.969] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col0e#5&1833cf36&0&000d#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.969] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col0f#5&1833cf36&0&000e#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.969] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col01#5&1833cf36&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.969] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col02#5&1833cf36&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.970] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col03#5&1833cf36&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.970] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col04#5&1833cf36&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.970] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col05#5&1833cf36&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.970] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col06#5&1833cf36&0&0005#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.971] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col0a#5&1833cf36&0&0009#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.971] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col07#5&1833cf36&0&0006#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.971] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col08#5&1833cf36&0&0007#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.971] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col09#5&1833cf36&0&0008#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.972] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#converteddevice&col01#7&f202e01&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.972] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#etd2303&col01#5&1e6314e1&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.972] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#etd2303&col02#5&1e6314e1&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.973] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#converteddevice&col02#7&f202e01&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.973] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#etd2303&col03#5&1e6314e1&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.974] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col11#5&1833cf36&0&0010#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.974] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#etd2303&col04#5&1e6314e1&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.974] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col10#5&1833cf36&0&000f#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.975] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col12#5&1833cf36&0&0011#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.975] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col0b#5&1833cf36&0&000a#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.975] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#converteddevice&col03#7&f202e01&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.975] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col0c#5&1833cf36&0&000b#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.976] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#intc816&col0d#5&1833cf36&0&000c#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.976] Dev2KeyType: (Process is 14476, thread is 2016)
+	[begin	strDevPath:\\?\hid#vid_046d&pid_c077#6&29f5c28b&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:21:50.976] EnumExistUKey: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.978] SortControl: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:21:50.979] SortControl: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.982] DocumentCompleteExplorerBrowser: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:50.983] CCB_ClientWindowInfo: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:21:50.983] CCB_ClientWindowInfo: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:21:55.394] ShowSettingDlg: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:21:55.397] ShowSettingDlg: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:22:01.651] ShowSettingDlg: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:22:01.654] ShowSettingDlg: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:22:02.886] ShowSettingDlg: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:22:02.889] ShowSettingDlg: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:22:05.090] ShowSettingDlg: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:22:05.092] ShowSettingDlg: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:22:05.203] CCB_RepairAll: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:22:05.204] RepairThread: (Process is 14476, thread is 15932)
+	[begin]
+[2018/04/24,19:22:05.205] AddResult: (Process is 14476, thread is 15932)
+	[begin]
+[2018/04/24,19:22:05.208] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:22:05.209] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:22:05.209] AddResult: (Process is 14476, thread is 15932)
+	[end]
+[2018/04/24,19:22:05.210] AddResult: (Process is 14476, thread is 15932)
+	[begin]
+[2018/04/24,19:22:05.215] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:22:05.216] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:22:05.217] AddResult: (Process is 14476, thread is 15932)
+	[end]
+[2018/04/24,19:22:05.285] AddResult: (Process is 14476, thread is 15932)
+	[begin]
+[2018/04/24,19:22:05.286] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:22:05.287] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:22:05.287] AddResult: (Process is 14476, thread is 15932)
+	[end]
+[2018/04/24,19:22:05.288] AddResult: (Process is 14476, thread is 15932)
+	[begin]
+[2018/04/24,19:22:05.289] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:22:05.289] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:22:05.289] AddResult: (Process is 14476, thread is 15932)
+	[end]
+[2018/04/24,19:22:05.291] AddResult: (Process is 14476, thread is 15932)
+	[begin]
+[2018/04/24,19:22:05.291] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:22:05.292] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:22:05.292] AddResult: (Process is 14476, thread is 15932)
+	[end]
+[2018/04/24,19:22:06.117] AddResult: (Process is 14476, thread is 15932)
+	[begin]
+[2018/04/24,19:22:06.118] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:22:06.120] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:22:06.120] AddResult: (Process is 14476, thread is 15932)
+	[end]
+[2018/04/24,19:22:06.123] AddResult: (Process is 14476, thread is 15932)
+	[begin]
+[2018/04/24,19:22:06.123] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:22:06.125] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:22:06.125] AddResult: (Process is 14476, thread is 15932)
+	[end]
+[2018/04/24,19:22:06.126] AddResult: (Process is 14476, thread is 15932)
+	[begin]
+[2018/04/24,19:22:06.126] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:22:06.128] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:22:06.129] AddResult: (Process is 14476, thread is 15932)
+	[end]
+[2018/04/24,19:22:06.129] CCB_IsTLS12OrLaterChecked: (Process is 14476, thread is 15932)
+	[begin]
+[2018/04/24,19:22:06.129] Read: (Process is 14476, thread is 15932)
+	[begin]
+[2018/04/24,19:22:06.130] Close: (Process is 14476, thread is 15932)
+	[begin]
+[2018/04/24,19:22:06.130] Close: (Process is 14476, thread is 15932)
+	[end]
+[2018/04/24,19:22:06.130] CCB_IsTLS12OrLaterChecked: (Process is 14476, thread is 15932)
+	[end]
+[2018/04/24,19:22:06.131] AddResult: (Process is 14476, thread is 15932)
+	[begin]
+[2018/04/24,19:22:06.135] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:22:06.137] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:22:06.137] AddResult: (Process is 14476, thread is 15932)
+	[end]
+[2018/04/24,19:22:06.137] AddResult: (Process is 14476, thread is 15932)
+	[begin]
+[2018/04/24,19:22:06.138] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:22:06.139] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:22:06.139] AddResult: (Process is 14476, thread is 15932)
+	[end]
+[2018/04/24,19:22:06.140] AddResult: (Process is 14476, thread is 15932)
+	[begin]
+[2018/04/24,19:22:06.142] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:22:06.143] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:22:06.143] AddResult: (Process is 14476, thread is 15932)
+	[end]
+[2018/04/24,19:22:06.144] AddResult: (Process is 14476, thread is 15932)
+	[begin]
+[2018/04/24,19:22:06.144] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:22:06.145] OnSendIEMsg1: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:22:06.145] AddResult: (Process is 14476, thread is 15932)
+	[end]
+[2018/04/24,19:22:06.146] RepairThread: (Process is 14476, thread is 15932)
+	[end]
+[2018/04/24,19:22:25.343] ShowSettingDlg: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:22:25.349] ShowSettingDlg: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:22:25.442] CCB_UkeyInfo: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:22:25.443] CCB_UkeyInfo: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:22:25.443] Thread_GetUkeyInfo: (Process is 14476, thread is 15708)
+	[begin nCurVendorType:-1]
+[2018/04/24,19:22:25.456] OnUpdatekeyInfo1: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:22:25.460] OnUpdatekeyInfo1: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:22:25.460] Thread_GetUkeyInfo: (Process is 14476, thread is 15708)
+	[end strUkeyInfo:{ SN:'',CN:'',C:'',O:'',OU:'',EndDate:'',StartDate:''}]
+[2018/04/24,19:22:26.616] ShowSettingDlg: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:22:26.619] ShowSettingDlg: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:22:29.787] WindowProc: (Process is 14476, thread is 2016)
+	[begin	wParam:7]
+[2018/04/24,19:22:29.788] WindowProc: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:22:29.858] WindowProc: (Process is 14476, thread is 2016)
+	[begin	wParam:7]
+[2018/04/24,19:22:29.858] WindowProc: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:22:31.570] WindowProc: (Process is 14476, thread is 2016)
+	[begin	wParam:32772]
+[2018/04/24,19:22:31.570] WindowProc: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:22:31.571] WindowProc: (Process is 14476, thread is 2016)
+	[begin	wParam:32772]
+[2018/04/24,19:22:31.571] WindowProc: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:22:31.572] WindowProc: (Process is 14476, thread is 2016)
+	[begin	wParam:32772]
+[2018/04/24,19:22:31.572] WindowProc: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:22:31.577] WindowProc: (Process is 14476, thread is 2016)
+	[begin	wParam:7]
+[2018/04/24,19:22:31.578] WindowProc: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:22:31.772] WindowProc: (Process is 14476, thread is 2016)
+	[begin	wParam:7]
+[2018/04/24,19:22:31.773] WindowProc: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:22:39.004] WindowProc: (Process is 14476, thread is 2016)
+	[begin	wParam:7]
+[2018/04/24,19:22:39.004] WindowProc: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:22:41.355] WindowProc: (Process is 14476, thread is 2016)
+	[begin	wParam:7]
+[2018/04/24,19:22:41.356] WindowProc: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:22:46.622] ShowSettingDlg: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:22:46.625] ShowSettingDlg: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:22:46.853] UnRegistDeviceChangeEvent: (Process is 14476, thread is 2016)
+	[begin]
+[2018/04/24,19:22:46.853] UnRegistDeviceChangeEvent: (Process is 14476, thread is 2016)
+	[end]
+[2018/04/24,19:23:00.070] CCCBDetectorApp::InitInstance : (Process is 9616, thread is 1480)
+	[begin]
+[2018/04/24,19:23:00.103] OnInitDialog: (Process is 9616, thread is 1480)
+	[begin]
+[2018/04/24,19:23:00.214] OnInitDialog: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.419] DocumentCompleteExplorerBrowser: (Process is 9616, thread is 1480)
+	[begin:pos:20]
+[2018/04/24,19:23:00.419] DocumentCompleteExplorerBrowser: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.420] DocumentCompleteExplorerBrowser: (Process is 9616, thread is 1480)
+	[begin:pos:30]
+[2018/04/24,19:23:00.420] DocumentCompleteExplorerBrowser: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.422] DocumentCompleteExplorerBrowser: (Process is 9616, thread is 1480)
+	[begin:pos:40]
+[2018/04/24,19:23:00.422] DocumentCompleteExplorerBrowser: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.424] CCB_GetProxySettings: (Process is 9616, thread is 1480)
+	[begin]
+[2018/04/24,19:23:00.424] CCB_GetProxySettings: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.426] DocumentCompleteExplorerBrowser: (Process is 9616, thread is 1480)
+	[begin:pos:50]
+[2018/04/24,19:23:00.426] DocumentCompleteExplorerBrowser: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.437] DocumentCompleteExplorerBrowser: (Process is 9616, thread is 1480)
+	[begin:pos:60]
+[2018/04/24,19:23:00.438] DocumentCompleteExplorerBrowser: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.439] DocumentCompleteExplorerBrowser: (Process is 9616, thread is 1480)
+	[begin:pos:70]
+[2018/04/24,19:23:00.439] DocumentCompleteExplorerBrowser: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.440] DocumentCompleteExplorerBrowser: (Process is 9616, thread is 1480)
+	[begin:pos:80]
+[2018/04/24,19:23:00.441] DocumentCompleteExplorerBrowser: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.442] DocumentCompleteExplorerBrowser: (Process is 9616, thread is 1480)
+	[begin:pos:90]
+[2018/04/24,19:23:00.442] DocumentCompleteExplorerBrowser: (Process is 9616, thread is 1480)
+	[Program Startup m_bInit-enum exist key]
+[2018/04/24,19:23:00.442] RegistDeviceChangeEvent: (Process is 9616, thread is 1480)
+	[begin]
+[2018/04/24,19:23:00.443] RegistDeviceChangeEvent: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.443] EnumExistUKey: (Process is 9616, thread is 1480)
+	[begin]
+[2018/04/24,19:23:00.444] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\scsi#disk&ven_nvme&prod_samsung_mzvlw256#5&1042fa54&0&000000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}]
+[2018/04/24,19:23:00.444] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col0e#5&1833cf36&0&000d#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.445] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col0f#5&1833cf36&0&000e#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.445] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col01#5&1833cf36&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.445] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col02#5&1833cf36&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.446] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col03#5&1833cf36&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.446] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col04#5&1833cf36&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.446] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col05#5&1833cf36&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.446] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col06#5&1833cf36&0&0005#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.447] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col0a#5&1833cf36&0&0009#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.447] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col07#5&1833cf36&0&0006#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.447] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col08#5&1833cf36&0&0007#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.447] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col09#5&1833cf36&0&0008#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.448] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#converteddevice&col01#7&f202e01&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.448] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#etd2303&col01#5&1e6314e1&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.448] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#etd2303&col02#5&1e6314e1&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.448] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#converteddevice&col02#7&f202e01&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.449] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#etd2303&col03#5&1e6314e1&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.449] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col11#5&1833cf36&0&0010#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.449] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#etd2303&col04#5&1e6314e1&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.449] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col10#5&1833cf36&0&000f#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.450] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col12#5&1833cf36&0&0011#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.450] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col0b#5&1833cf36&0&000a#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.450] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#converteddevice&col03#7&f202e01&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.450] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col0c#5&1833cf36&0&000b#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.451] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col0d#5&1833cf36&0&000c#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.451] EnumExistUKey: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.453] SortControl: (Process is 9616, thread is 1480)
+	[begin]
+[2018/04/24,19:23:00.457] SortControl: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.460] CCB_DetectAll: (Process is 9616, thread is 1480)
+	[begin]
+[2018/04/24,19:23:00.460] CCB_DetectAll: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.460] RepairThread: (Process is 9616, thread is 7952)
+	[begin]
+[2018/04/24,19:23:00.461] AddResult: (Process is 9616, thread is 7952)
+	[begin]
+[2018/04/24,19:23:00.468] DocumentCompleteExplorerBrowser: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.478] OnSendIEMsg1: (Process is 9616, thread is 1480)
+	[begin]
+[2018/04/24,19:23:00.479] OnSendIEMsg1: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.479] AddResult: (Process is 9616, thread is 7952)
+	[end]
+[2018/04/24,19:23:00.479] AddResult: (Process is 9616, thread is 7952)
+	[begin]
+[2018/04/24,19:23:00.488] OnSendIEMsg1: (Process is 9616, thread is 1480)
+	[begin]
+[2018/04/24,19:23:00.490] OnSendIEMsg1: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.490] AddResult: (Process is 9616, thread is 7952)
+	[end]
+[2018/04/24,19:23:00.491] AddResult: (Process is 9616, thread is 7952)
+	[begin]
+[2018/04/24,19:23:00.496] OnSendIEMsg1: (Process is 9616, thread is 1480)
+	[begin]
+[2018/04/24,19:23:00.497] OnSendIEMsg1: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.497] AddResult: (Process is 9616, thread is 7952)
+	[end]
+[2018/04/24,19:23:00.498] AddResult: (Process is 9616, thread is 7952)
+	[begin]
+[2018/04/24,19:23:00.499] OnSendIEMsg1: (Process is 9616, thread is 1480)
+	[begin]
+[2018/04/24,19:23:00.499] OnSendIEMsg1: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.500] AddResult: (Process is 9616, thread is 7952)
+	[end]
+[2018/04/24,19:23:00.502] AddResult: (Process is 9616, thread is 7952)
+	[begin]
+[2018/04/24,19:23:00.506] OnSendIEMsg1: (Process is 9616, thread is 1480)
+	[begin]
+[2018/04/24,19:23:00.507] OnSendIEMsg1: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.508] AddResult: (Process is 9616, thread is 7952)
+	[end]
+[2018/04/24,19:23:00.508] AddResult: (Process is 9616, thread is 7952)
+	[begin]
+[2018/04/24,19:23:00.509] OnSendIEMsg1: (Process is 9616, thread is 1480)
+	[begin]
+[2018/04/24,19:23:00.510] OnSendIEMsg1: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.511] AddResult: (Process is 9616, thread is 7952)
+	[end]
+[2018/04/24,19:23:00.511] AddResult: (Process is 9616, thread is 7952)
+	[begin]
+[2018/04/24,19:23:00.512] OnSendIEMsg1: (Process is 9616, thread is 1480)
+	[begin]
+[2018/04/24,19:23:00.513] OnSendIEMsg1: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.513] AddResult: (Process is 9616, thread is 7952)
+	[end]
+[2018/04/24,19:23:00.514] CCB_IsTLS12OrLaterChecked: (Process is 9616, thread is 7952)
+	[begin]
+[2018/04/24,19:23:00.514] Read: (Process is 9616, thread is 7952)
+	[begin]
+[2018/04/24,19:23:00.514] Close: (Process is 9616, thread is 7952)
+	[begin]
+[2018/04/24,19:23:00.515] Close: (Process is 9616, thread is 7952)
+	[end]
+[2018/04/24,19:23:00.515] CCB_IsTLS12OrLaterChecked: (Process is 9616, thread is 7952)
+	[end]
+[2018/04/24,19:23:00.515] AddResult: (Process is 9616, thread is 7952)
+	[begin]
+[2018/04/24,19:23:00.516] OnSendIEMsg1: (Process is 9616, thread is 1480)
+	[begin]
+[2018/04/24,19:23:00.517] OnSendIEMsg1: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.518] AddResult: (Process is 9616, thread is 7952)
+	[end]
+[2018/04/24,19:23:00.518] AddResult: (Process is 9616, thread is 7952)
+	[begin]
+[2018/04/24,19:23:00.519] OnSendIEMsg1: (Process is 9616, thread is 1480)
+	[begin]
+[2018/04/24,19:23:00.520] OnSendIEMsg1: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.521] AddResult: (Process is 9616, thread is 7952)
+	[end]
+[2018/04/24,19:23:00.521] AddResult: (Process is 9616, thread is 7952)
+	[begin]
+[2018/04/24,19:23:00.522] OnSendIEMsg1: (Process is 9616, thread is 1480)
+	[begin]
+[2018/04/24,19:23:00.523] OnSendIEMsg1: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.523] AddResult: (Process is 9616, thread is 7952)
+	[end]
+[2018/04/24,19:23:00.524] AddResult: (Process is 9616, thread is 7952)
+	[begin]
+[2018/04/24,19:23:00.525] OnSendIEMsg1: (Process is 9616, thread is 1480)
+	[begin]
+[2018/04/24,19:23:00.526] OnSendIEMsg1: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.526] AddResult: (Process is 9616, thread is 7952)
+	[end]
+[2018/04/24,19:23:00.527] RepairThread: (Process is 9616, thread is 7952)
+	[end]
+[2018/04/24,19:23:00.529] DocumentCompleteExplorerBrowser: (Process is 9616, thread is 1480)
+	[begin:pos:100]
+[2018/04/24,19:23:00.529] DocumentCompleteExplorerBrowser: (Process is 9616, thread is 1480)
+	[Program Startup m_bInit-enum exist key]
+[2018/04/24,19:23:00.529] RegistDeviceChangeEvent: (Process is 9616, thread is 1480)
+	[begin]
+[2018/04/24,19:23:00.529] RegistDeviceChangeEvent: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.530] EnumExistUKey: (Process is 9616, thread is 1480)
+	[begin]
+[2018/04/24,19:23:00.530] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\scsi#disk&ven_nvme&prod_samsung_mzvlw256#5&1042fa54&0&000000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}]
+[2018/04/24,19:23:00.531] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col0e#5&1833cf36&0&000d#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.531] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col0f#5&1833cf36&0&000e#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.531] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col01#5&1833cf36&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.531] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col02#5&1833cf36&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.532] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col03#5&1833cf36&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.532] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col04#5&1833cf36&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.532] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col05#5&1833cf36&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.532] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col06#5&1833cf36&0&0005#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.533] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col0a#5&1833cf36&0&0009#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.533] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col07#5&1833cf36&0&0006#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.533] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col08#5&1833cf36&0&0007#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.533] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col09#5&1833cf36&0&0008#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.534] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#converteddevice&col01#7&f202e01&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.534] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#etd2303&col01#5&1e6314e1&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.534] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#etd2303&col02#5&1e6314e1&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.534] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#converteddevice&col02#7&f202e01&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.535] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#etd2303&col03#5&1e6314e1&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.535] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col11#5&1833cf36&0&0010#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.535] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#etd2303&col04#5&1e6314e1&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.535] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col10#5&1833cf36&0&000f#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.536] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col12#5&1833cf36&0&0011#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.536] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col0b#5&1833cf36&0&000a#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.536] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#converteddevice&col03#7&f202e01&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.536] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col0c#5&1833cf36&0&000b#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.537] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col0d#5&1833cf36&0&000c#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.537] EnumExistUKey: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.538] SortControl: (Process is 9616, thread is 1480)
+	[begin]
+[2018/04/24,19:23:00.539] SortControl: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.545] DocumentCompleteExplorerBrowser: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.547] DocumentCompleteExplorerBrowser: (Process is 9616, thread is 1480)
+	[begin:pos:110]
+[2018/04/24,19:23:00.548] DocumentCompleteExplorerBrowser: (Process is 9616, thread is 1480)
+	[Program Startup m_bInit-enum exist key]
+[2018/04/24,19:23:00.548] RegistDeviceChangeEvent: (Process is 9616, thread is 1480)
+	[begin]
+[2018/04/24,19:23:00.548] RegistDeviceChangeEvent: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.548] EnumExistUKey: (Process is 9616, thread is 1480)
+	[begin]
+[2018/04/24,19:23:00.549] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\scsi#disk&ven_nvme&prod_samsung_mzvlw256#5&1042fa54&0&000000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}]
+[2018/04/24,19:23:00.549] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col0e#5&1833cf36&0&000d#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.550] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col0f#5&1833cf36&0&000e#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.550] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col01#5&1833cf36&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.550] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col02#5&1833cf36&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.550] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col03#5&1833cf36&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.550] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col04#5&1833cf36&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.550] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col05#5&1833cf36&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.552] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col06#5&1833cf36&0&0005#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.552] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col0a#5&1833cf36&0&0009#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.552] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col07#5&1833cf36&0&0006#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.552] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col08#5&1833cf36&0&0007#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.552] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col09#5&1833cf36&0&0008#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.552] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#converteddevice&col01#7&f202e01&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.552] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#etd2303&col01#5&1e6314e1&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.554] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#etd2303&col02#5&1e6314e1&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.554] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#converteddevice&col02#7&f202e01&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.554] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#etd2303&col03#5&1e6314e1&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.554] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col11#5&1833cf36&0&0010#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.555] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#etd2303&col04#5&1e6314e1&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.555] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col10#5&1833cf36&0&000f#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.555] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col12#5&1833cf36&0&0011#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.555] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col0b#5&1833cf36&0&000a#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.556] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#converteddevice&col03#7&f202e01&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.556] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col0c#5&1833cf36&0&000b#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.556] Dev2KeyType: (Process is 9616, thread is 1480)
+	[begin	strDevPath:\\?\hid#intc816&col0d#5&1833cf36&0&000c#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:23:00.557] EnumExistUKey: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.558] SortControl: (Process is 9616, thread is 1480)
+	[begin]
+[2018/04/24,19:23:00.559] SortControl: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.562] DocumentCompleteExplorerBrowser: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:00.564] CCB_ClientWindowInfo: (Process is 9616, thread is 1480)
+	[begin]
+[2018/04/24,19:23:00.564] CCB_ClientWindowInfo: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:06.869] ShowSettingDlg: (Process is 9616, thread is 1480)
+	[begin]
+[2018/04/24,19:23:06.872] ShowSettingDlg: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:23:07.113] UnRegistDeviceChangeEvent: (Process is 9616, thread is 1480)
+	[begin]
+[2018/04/24,19:23:07.114] UnRegistDeviceChangeEvent: (Process is 9616, thread is 1480)
+	[end]
+[2018/04/24,19:25:59.672] CCCBDetectorApp::InitInstance : (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:25:59.703] OnInitDialog: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:25:59.813] OnInitDialog: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.000] DocumentCompleteExplorerBrowser: (Process is 9724, thread is 8152)
+	[begin:pos:20]
+[2018/04/24,19:26:00.000] DocumentCompleteExplorerBrowser: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.000] DocumentCompleteExplorerBrowser: (Process is 9724, thread is 8152)
+	[begin:pos:30]
+[2018/04/24,19:26:00.000] DocumentCompleteExplorerBrowser: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.000] DocumentCompleteExplorerBrowser: (Process is 9724, thread is 8152)
+	[begin:pos:40]
+[2018/04/24,19:26:00.000] DocumentCompleteExplorerBrowser: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.000] CCB_GetProxySettings: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:00.000] CCB_GetProxySettings: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.000] DocumentCompleteExplorerBrowser: (Process is 9724, thread is 8152)
+	[begin:pos:50]
+[2018/04/24,19:26:00.000] DocumentCompleteExplorerBrowser: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.016] DocumentCompleteExplorerBrowser: (Process is 9724, thread is 8152)
+	[begin:pos:60]
+[2018/04/24,19:26:00.016] DocumentCompleteExplorerBrowser: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.016] DocumentCompleteExplorerBrowser: (Process is 9724, thread is 8152)
+	[begin:pos:70]
+[2018/04/24,19:26:00.016] DocumentCompleteExplorerBrowser: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.016] DocumentCompleteExplorerBrowser: (Process is 9724, thread is 8152)
+	[begin:pos:80]
+[2018/04/24,19:26:00.016] DocumentCompleteExplorerBrowser: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.016] DocumentCompleteExplorerBrowser: (Process is 9724, thread is 8152)
+	[begin:pos:90]
+[2018/04/24,19:26:00.016] DocumentCompleteExplorerBrowser: (Process is 9724, thread is 8152)
+	[Program Startup m_bInit-enum exist key]
+[2018/04/24,19:26:00.016] RegistDeviceChangeEvent: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:00.016] RegistDeviceChangeEvent: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.016] EnumExistUKey: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:00.016] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\scsi#disk&ven_nvme&prod_samsung_mzvlw256#5&1042fa54&0&000000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}]
+[2018/04/24,19:26:00.016] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col0e#5&1833cf36&0&000d#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.016] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col0f#5&1833cf36&0&000e#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.016] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col01#5&1833cf36&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.016] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col02#5&1833cf36&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.016] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col03#5&1833cf36&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.016] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col04#5&1833cf36&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.031] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col05#5&1833cf36&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.031] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col06#5&1833cf36&0&0005#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.031] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col0a#5&1833cf36&0&0009#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.031] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col07#5&1833cf36&0&0006#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.031] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col08#5&1833cf36&0&0007#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.031] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col09#5&1833cf36&0&0008#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.031] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#converteddevice&col01#7&f202e01&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.031] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#etd2303&col01#5&1e6314e1&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.031] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#etd2303&col02#5&1e6314e1&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.031] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#converteddevice&col02#7&f202e01&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.031] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#etd2303&col03#5&1e6314e1&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.031] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col11#5&1833cf36&0&0010#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.031] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#etd2303&col04#5&1e6314e1&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.031] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col10#5&1833cf36&0&000f#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.031] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col12#5&1833cf36&0&0011#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.031] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col0b#5&1833cf36&0&000a#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.031] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#converteddevice&col03#7&f202e01&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.031] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col0c#5&1833cf36&0&000b#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.031] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col0d#5&1833cf36&0&000c#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.031] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\usb#vid_8829&pid_ccb2#5&2e61ffcc&0&3#{50dd5230-ba8a-11d1-bf5d-0000f805f530}]
+[2018/04/24,19:26:00.375] EnumExistUKey: (Process is 9724, thread is 8152)
+	[strDevicePath:\\?\usb#vid_8829&pid_ccb2#5&2e61ffcc&0&3#{50dd5230-ba8a-11d1-bf5d-0000f805f530}]
+[2018/04/24,19:26:00.375] EnumExistUKey: (Process is 9724, thread is 8152)
+	[nKeyType:5]
+[2018/04/24,19:26:00.422] OnUpdatekeyInfo: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:00.422] OnUpdatekeyInfo: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.422] EnumExistUKey: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.422] SortControl: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:00.438] SortControl: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.438] CCB_DetectAll: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:00.438] CCB_DetectAll: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.438] RepairThread: (Process is 9724, thread is 10292)
+	[begin]
+[2018/04/24,19:26:00.438] AddResult: (Process is 9724, thread is 10292)
+	[begin]
+[2018/04/24,19:26:00.438] DocumentCompleteExplorerBrowser: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.453] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:00.453] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.453] AddResult: (Process is 9724, thread is 10292)
+	[end]
+[2018/04/24,19:26:00.453] AddResult: (Process is 9724, thread is 10292)
+	[begin]
+[2018/04/24,19:26:00.469] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:00.469] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.469] AddResult: (Process is 9724, thread is 10292)
+	[end]
+[2018/04/24,19:26:00.469] AddResult: (Process is 9724, thread is 10292)
+	[begin]
+[2018/04/24,19:26:00.469] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:00.469] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.469] AddResult: (Process is 9724, thread is 10292)
+	[end]
+[2018/04/24,19:26:00.469] AddResult: (Process is 9724, thread is 10292)
+	[begin]
+[2018/04/24,19:26:00.469] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:00.469] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.469] AddResult: (Process is 9724, thread is 10292)
+	[end]
+[2018/04/24,19:26:00.485] AddResult: (Process is 9724, thread is 10292)
+	[begin]
+[2018/04/24,19:26:00.485] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:00.485] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.485] AddResult: (Process is 9724, thread is 10292)
+	[end]
+[2018/04/24,19:26:00.485] AddResult: (Process is 9724, thread is 10292)
+	[begin]
+[2018/04/24,19:26:00.485] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:00.485] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.485] AddResult: (Process is 9724, thread is 10292)
+	[end]
+[2018/04/24,19:26:00.485] AddResult: (Process is 9724, thread is 10292)
+	[begin]
+[2018/04/24,19:26:00.485] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:00.485] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.485] AddResult: (Process is 9724, thread is 10292)
+	[end]
+[2018/04/24,19:26:00.485] CCB_IsTLS12OrLaterChecked: (Process is 9724, thread is 10292)
+	[begin]
+[2018/04/24,19:26:00.485] Read: (Process is 9724, thread is 10292)
+	[begin]
+[2018/04/24,19:26:00.485] Close: (Process is 9724, thread is 10292)
+	[begin]
+[2018/04/24,19:26:00.485] Close: (Process is 9724, thread is 10292)
+	[end]
+[2018/04/24,19:26:00.485] CCB_IsTLS12OrLaterChecked: (Process is 9724, thread is 10292)
+	[end]
+[2018/04/24,19:26:00.485] AddResult: (Process is 9724, thread is 10292)
+	[begin]
+[2018/04/24,19:26:00.485] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:00.485] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.485] AddResult: (Process is 9724, thread is 10292)
+	[end]
+[2018/04/24,19:26:00.485] AddResult: (Process is 9724, thread is 10292)
+	[begin]
+[2018/04/24,19:26:00.500] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:00.500] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.500] AddResult: (Process is 9724, thread is 10292)
+	[end]
+[2018/04/24,19:26:00.500] AddResult: (Process is 9724, thread is 10292)
+	[begin]
+[2018/04/24,19:26:00.500] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:00.500] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.500] AddResult: (Process is 9724, thread is 10292)
+	[end]
+[2018/04/24,19:26:00.516] DocumentCompleteExplorerBrowser: (Process is 9724, thread is 8152)
+	[begin:pos:100]
+[2018/04/24,19:26:00.516] DocumentCompleteExplorerBrowser: (Process is 9724, thread is 8152)
+	[Program Startup m_bInit-enum exist key]
+[2018/04/24,19:26:00.516] RegistDeviceChangeEvent: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:00.516] RegistDeviceChangeEvent: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.516] EnumExistUKey: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:00.516] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\scsi#disk&ven_nvme&prod_samsung_mzvlw256#5&1042fa54&0&000000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}]
+[2018/04/24,19:26:00.516] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col0e#5&1833cf36&0&000d#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.516] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col0f#5&1833cf36&0&000e#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.516] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col01#5&1833cf36&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.516] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col02#5&1833cf36&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.516] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col03#5&1833cf36&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.516] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col04#5&1833cf36&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.516] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col05#5&1833cf36&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.516] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col06#5&1833cf36&0&0005#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.516] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col0a#5&1833cf36&0&0009#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.516] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col07#5&1833cf36&0&0006#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.516] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col08#5&1833cf36&0&0007#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.516] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col09#5&1833cf36&0&0008#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.516] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#converteddevice&col01#7&f202e01&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.516] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#etd2303&col01#5&1e6314e1&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.516] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#etd2303&col02#5&1e6314e1&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.516] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#converteddevice&col02#7&f202e01&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.516] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#etd2303&col03#5&1e6314e1&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.516] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col11#5&1833cf36&0&0010#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.516] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#etd2303&col04#5&1e6314e1&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.516] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col10#5&1833cf36&0&000f#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.516] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col12#5&1833cf36&0&0011#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.516] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col0b#5&1833cf36&0&000a#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.516] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#converteddevice&col03#7&f202e01&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.516] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col0c#5&1833cf36&0&000b#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.516] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col0d#5&1833cf36&0&000c#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.516] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\usb#vid_8829&pid_ccb2#5&2e61ffcc&0&3#{50dd5230-ba8a-11d1-bf5d-0000f805f530}]
+[2018/04/24,19:26:00.516] EnumExistUKey: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.516] SortControl: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:00.516] SortControl: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.531] DocumentCompleteExplorerBrowser: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.531] DocumentCompleteExplorerBrowser: (Process is 9724, thread is 8152)
+	[begin:pos:110]
+[2018/04/24,19:26:00.531] DocumentCompleteExplorerBrowser: (Process is 9724, thread is 8152)
+	[Program Startup m_bInit-enum exist key]
+[2018/04/24,19:26:00.531] RegistDeviceChangeEvent: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:00.531] RegistDeviceChangeEvent: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.531] EnumExistUKey: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:00.531] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\scsi#disk&ven_nvme&prod_samsung_mzvlw256#5&1042fa54&0&000000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}]
+[2018/04/24,19:26:00.531] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col0e#5&1833cf36&0&000d#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.531] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col0f#5&1833cf36&0&000e#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.531] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col01#5&1833cf36&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.531] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col02#5&1833cf36&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.531] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col03#5&1833cf36&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.531] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col04#5&1833cf36&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.531] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col05#5&1833cf36&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.531] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col06#5&1833cf36&0&0005#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.531] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col0a#5&1833cf36&0&0009#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.531] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col07#5&1833cf36&0&0006#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.531] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col08#5&1833cf36&0&0007#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.531] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col09#5&1833cf36&0&0008#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.531] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#converteddevice&col01#7&f202e01&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.531] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#etd2303&col01#5&1e6314e1&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.531] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#etd2303&col02#5&1e6314e1&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.531] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#converteddevice&col02#7&f202e01&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.531] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#etd2303&col03#5&1e6314e1&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.531] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col11#5&1833cf36&0&0010#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.531] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#etd2303&col04#5&1e6314e1&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.531] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col10#5&1833cf36&0&000f#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.531] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col12#5&1833cf36&0&0011#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.531] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col0b#5&1833cf36&0&000a#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.531] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#converteddevice&col03#7&f202e01&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.531] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col0c#5&1833cf36&0&000b#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.531] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\hid#intc816&col0d#5&1833cf36&0&000c#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[2018/04/24,19:26:00.531] Dev2KeyType: (Process is 9724, thread is 8152)
+	[begin	strDevPath:\\?\usb#vid_8829&pid_ccb2#5&2e61ffcc&0&3#{50dd5230-ba8a-11d1-bf5d-0000f805f530}]
+[2018/04/24,19:26:00.531] EnumExistUKey: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.531] SortControl: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:00.531] SortControl: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.547] DocumentCompleteExplorerBrowser: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.547] CCB_ClientWindowInfo: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:00.547] CCB_ClientWindowInfo: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.797] AddResult: (Process is 9724, thread is 10292)
+	[begin]
+[2018/04/24,19:26:00.797] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:00.797] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.797] AddResult: (Process is 9724, thread is 10292)
+	[end]
+[2018/04/24,19:26:00.797] AddResult: (Process is 9724, thread is 10292)
+	[begin]
+[2018/04/24,19:26:00.797] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:00.813] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.813] AddResult: (Process is 9724, thread is 10292)
+	[end]
+[2018/04/24,19:26:00.813] AddResult: (Process is 9724, thread is 10292)
+	[begin]
+[2018/04/24,19:26:00.813] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:00.813] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.813] AddResult: (Process is 9724, thread is 10292)
+	[end]
+[2018/04/24,19:26:00.813] AddResult: (Process is 9724, thread is 10292)
+	[begin]
+[2018/04/24,19:26:00.813] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:00.828] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:00.828] AddResult: (Process is 9724, thread is 10292)
+	[end]
+[2018/04/24,19:26:01.016] AddResult: (Process is 9724, thread is 10292)
+	[begin]
+[2018/04/24,19:26:01.016] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:01.031] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:01.031] AddResult: (Process is 9724, thread is 10292)
+	[end]
+[2018/04/24,19:26:01.102] AddResult: (Process is 9724, thread is 10292)
+	[begin]
+[2018/04/24,19:26:01.102] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:01.102] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:01.102] AddResult: (Process is 9724, thread is 10292)
+	[end]
+[2018/04/24,19:26:01.195] AddResult: (Process is 9724, thread is 10292)
+	[begin]
+[2018/04/24,19:26:01.195] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:01.195] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:01.195] AddResult: (Process is 9724, thread is 10292)
+	[end]
+[2018/04/24,19:26:01.696] pDetector->CheckCert(): (Process is 9724, thread is 10292)
+	[nResult0]
+[2018/04/24,19:26:01.696] pDetector->CheckCert(): (Process is 9724, thread is 10292)
+	[szTipUKEY_DM2G1060]
+[2018/04/24,19:26:01.696] AddResult: (Process is 9724, thread is 10292)
+	[begin]
+[2018/04/24,19:26:01.696] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:01.696] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:01.696] AddResult: (Process is 9724, thread is 10292)
+	[end]
+[2018/04/24,19:26:01.711] AddResult: (Process is 9724, thread is 10292)
+	[begin]
+[2018/04/24,19:26:01.711] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:01.711] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:01.711] AddResult: (Process is 9724, thread is 10292)
+	[end]
+[2018/04/24,19:26:01.711] AddResult: (Process is 9724, thread is 10292)
+	[begin]
+[2018/04/24,19:26:01.711] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:01.711] OnSendIEMsg1: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:01.711] AddResult: (Process is 9724, thread is 10292)
+	[end]
+[2018/04/24,19:26:01.711] RepairThread: (Process is 9724, thread is 10292)
+	[end]
+[2018/04/24,19:26:08.431] ShowSettingDlg: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:08.431] ShowSettingDlg: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:13.838] ShowSettingDlg: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:13.838] ShowSettingDlg: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:17.510] ShowSettingDlg: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:17.510] ShowSettingDlg: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:21.276] ShowSettingDlg: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:21.276] ShowSettingDlg: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:24.026] ShowSettingDlg: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:24.026] ShowSettingDlg: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:33.980] ShowSettingDlg: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:33.980] ShowSettingDlg: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:34.215] CCB_UkeyInfo: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:34.215] Thread_GetUkeyInfo: (Process is 9724, thread is 4228)
+	[begin nCurVendorType:5]
+[2018/04/24,19:26:34.215] CCB_UkeyInfo: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:35.527] OnUpdatekeyInfo1: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:35.527] OnUpdatekeyInfo1: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:26:35.527] Thread_GetUkeyInfo: (Process is 9724, thread is 4228)
+	[end strUkeyInfo:{ SN:'7262151120',CN:'J57667928',C:'',O:'',OU:'',EndDate:'20230406',StartDate:'20180406'}]
+[2018/04/24,19:26:35.824] ShowSettingDlg: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:26:35.824] ShowSettingDlg: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:28:08.362] ShowSettingDlg: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:28:08.362] ShowSettingDlg: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:28:08.487] CCB_Refresh: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:28:08.502] CCB_Refresh: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:28:38.115] ShowSettingDlg: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:28:38.115] ShowSettingDlg: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:28:39.709] ShowSettingDlg: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:28:39.709] ShowSettingDlg: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:31:36.328] ShowSettingDlg: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:31:36.343] ShowSettingDlg: (Process is 9724, thread is 8152)
+	[end]
+[2018/04/24,19:31:36.562] UnRegistDeviceChangeEvent: (Process is 9724, thread is 8152)
+	[begin]
+[2018/04/24,19:31:36.562] UnRegistDeviceChangeEvent: (Process is 9724, thread is 8152)
+	[end]
